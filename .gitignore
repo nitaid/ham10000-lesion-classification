@@ -1,0 +1,12 @@
+# data (download separately, see README) and everything derived from it
+data/
+# trained weights and per-run outputs
+runs/
+*.pt
+*.pth
+logs/
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,10 @@
+# Tested with Python 3.12 on macOS (Apple M4, PyTorch MPS backend)
+torch==2.14.1
+torchvision==0.29.1
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+pillow==12.3.0
+matplotlib==3.11.2
+tqdm==4.70.1
+grad-cam==1.5.7
